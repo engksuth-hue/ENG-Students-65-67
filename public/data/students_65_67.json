@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "faculty": "คณะวิศวกรรมศาสตร์",
+    "university": "มหาวิทยาลัยกาฬสินธุ์",
+    "academic_years": [65, 66, 67],
+    "generated_at": "2026-02-23T00:00:00+07:00"
+  },
+  "records": [
+    {
+      "year": 65,
+      "intake_plan": 580,
+      "new_intake": 232,
+      "retained": 208,
+      "not_open": 348,
+      "total": 440,
+      "by_department": [
+        {
+          "department": "ช่างกลโรงงาน",
+          "intake_plan": 92,
+          "new_intake": 37,
+          "retained": 33,
+          "not_open": 54,
+          "total": 70
+        },
+        {
+          "department": "เทคนิคยานยนต์",
+          "intake_plan": 81,
+          "new_intake": 33,
+          "retained": 29,
+          "not_open": 49,
+          "total": 62
+        },
+        {
+          "department": "เทคโนโลยีโลจิสติกส์และการขนส่ง",
+          "intake_plan": 102,
+          "new_intake": 41,
+          "retained": 36,
+          "not_open": 61,
+          "total": 77
+        },
+        {
+          "department": "เทคโนโลยีคอมพิวเตอร์และระบบอัตโนมัติ",
+          "intake_plan": 71,
+          "new_intake": 28,
+          "retained": 26,
+          "not_open": 43,
+          "total": 54
+        },
+        {
+          "department": "ไฟฟ้ากำลัง",
+          "intake_plan": 81,
+          "new_intake": 33,
+          "retained": 29,
+          "not_open": 49,
+          "total": 62
+        },
+        {
+          "department": "ดิจิทัลกราฟิก",
+          "intake_plan": 61,
+          "new_intake": 24,
+          "retained": 22,
+          "not_open": 37,
+          "total": 46
+        },
+        {
+          "department": "เทคนิคสถาปัตยกรรม",
+          "intake_plan": 51,
+          "new_intake": 20,
+          "retained": 18,
+          "not_open": 31,
+          "total": 38
+        },
+        {
+          "department": "เครื่องกลเกษตร",
+          "intake_plan": 41,
+          "new_intake": 16,
+          "retained": 15,
+          "not_open": 24,
+          "total": 31
+        }
+      ]
+    },
+    {
+      "year": 66,
+      "intake_plan": 490,
+      "new_intake": 163,
+      "retained": 136,
+      "not_open": 354,
+      "total": 299,
+      "by_department": [
+        {
+          "department": "อส.บ.วิศวกรรมเครื่องจักรกลเกษตร",
+          "intake_plan": 95,
+          "new_intake": 42,
+          "retained": 37,
+          "not_open": 53,
+          "total": 79
+        },
+        {
+          "department": "วศ.บ. วิศวกรรมคอมพิวเตอร์",
+          "intake_plan": 84,
+          "new_intake": 36,
+          "retained": 33,
+          "not_open": 47,
+          "total": 69
+        },
+        {
+          "department": "วศ.บ. วิศวกรรมเครื่องกล",
+          "intake_plan": 105,
+          "new_intake": 46,
+          "retained": 40,
+          "not_open": 60,
+          "total": 86
+        },
+        {
+          "department": "วศ.บ. วิศวกรรมอุตสาหการ",
+          "intake_plan": 74,
+          "new_intake": 32,
+          "retained": 28,
+          "not_open": 42,
+          "total": 60
+        },
+        {
+          "department": "วศ.บ.วิศวกรรมโลจิสติกส์",
+          "intake_plan": 84,
+          "new_intake": 36,
+          "retained": 32,
+          "not_open": 48,
+          "total": 68
+        },
+        {
+          "department": "วศ.บ. เมคคาทรอนิกส์",
+          "intake_plan": 63,
+          "new_intake": 27,
+          "retained": 24,
+          "not_open": 36,
+          "total": 51
+        },
+        {
+          "department": "วศ.บ.วิศวกรรมเครื่องกล (2)",
+          "intake_plan": 53,
+          "new_intake": 23,
+          "retained": 20,
+          "not_open": 30,
+          "total": 43
+        },
+        {
+          "department": "วศ.บ.วิศวกรรมเมคคาทรอนิกส์",
+          "intake_plan": 42,
+          "new_intake": 18,
+          "retained": 16,
+          "not_open": 24,
+          "total": 34
+        }
+      ]
+    },
+    {
+      "year": 67,
+      "intake_plan": 620,
+      "new_intake": 180,
+      "retained": 240,
+      "not_open": 200,
+      "total": 420,
+      "by_department": [
+        {
+          "department": "วิศวกรรมคอมพิวเตอร์",
+          "intake_plan": 40,
+          "new_intake": 32,
+          "retained": 110,
+          "not_open": 0,
+          "total": 142
+        }
+      ]
+    }
+  ]
+}
