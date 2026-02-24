@@ -9,10 +9,10 @@
     {
       "year": 65,
       "intake_plan": 580,
-      "new_intake": 232,
+      "new_intake": 221,
       "retained": 208,
       "not_open": 348,
-      "total": 440,
+      "total": 1009,
       "by_department": [
         {
           "department": "ช่างกลโรงงาน",
@@ -86,7 +86,7 @@
       "new_intake": 163,
       "retained": 136,
       "not_open": 354,
-      "total": 299,
+      "total": 789,
       "by_department": [
         {
           "department": "อส.บ.วิศวกรรมเครื่องจักรกลเกษตร",
@@ -156,11 +156,11 @@
     },
     {
       "year": 67,
-      "intake_plan": 620,
-      "new_intake": 180,
-      "retained": 240,
+      "intake_plan": 520,
+      "new_intake": 235,
+      "retained": 215,
       "not_open": 200,
-      "total": 420,
+      "total": 970,
       "by_department": [
         {
           "department": "วิศวกรรมคอมพิวเตอร์",
